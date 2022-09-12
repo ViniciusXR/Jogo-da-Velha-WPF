@@ -6,7 +6,9 @@
         xmlns:local="clr-namespace:Jogo_da_Velha"
         mc:Ignorable="d"
         ResizeMode="NoResize"
-        Title="Jogo da Velha" Height="500" Width="500">
+        Title="Jogo da Velha" Height="500" Width="500"
+        WindowStartupLocation = "CenterScreen">
+    
 
     <Window.Resources>
         <Style TargetType="Button">
