@@ -32,7 +32,7 @@
 
 ## Como rodar a aplicação :arrow_forward:
 
-Basta executar o arquivo PedraPapelTesoura.exe na pasta principal e selecionar uma das três opções disponíveis.
+Basta executar o arquivo Jogo da Velha.exe na pasta principal.
 
 
 
