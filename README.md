@@ -19,7 +19,8 @@
 
 ## Descrição do projeto 
  <p>O clássico jogo da velha criado em WPF.</p>
-<img src="https://user-images.githubusercontent.com/101216409/189739673-1a47a9a7-b26f-41bb-97f9-98cba31d20c1.jpg"/>
+
+<img src="https://user-images.githubusercontent.com/101216409/189740408-870b54dc-d58b-4cfa-8b89-3987efaa546d.jpg"/>
 <img src="https://user-images.githubusercontent.com/101216409/189739716-f73eb675-cfac-4a96-8372-31d2b37c26d7.jpg"/>
 <img src="https://user-images.githubusercontent.com/101216409/189739734-08efb323-10ed-48d9-8e03-31c678a1782e.jpg"/>
  
