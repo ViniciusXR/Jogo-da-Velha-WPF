@@ -1,6 +1,3 @@
-
-
-
 <h1>Jogo da Velha</h1> 
 
 <p align="center">
@@ -9,6 +6,7 @@
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
+
 
 ### Tópicos 
 
@@ -21,9 +19,9 @@
 
 ## Descrição do projeto 
  <p>O clássico jogo da velha criado em WPF.</p>
-<img src="https://user-images.githubusercontent.com/101216409/189563105-5df168f8-dc71-4f96-be28-099a36203b54.jpg"/>
-<img src="https://user-images.githubusercontent.com/101216409/189563113-7f6d656e-2faa-4d4d-835a-4bc5b93353f6.jpg"/>
-<img src="https://user-images.githubusercontent.com/101216409/189563117-f4637990-6e26-4d42-ab05-623b7e97fcf2.jpg"/>
+<img src="https://user-images.githubusercontent.com/101216409/189739673-1a47a9a7-b26f-41bb-97f9-98cba31d20c1.jpg"/>
+<img src="https://user-images.githubusercontent.com/101216409/189739716-f73eb675-cfac-4a96-8372-31d2b37c26d7.jpg"/>
+<img src="https://user-images.githubusercontent.com/101216409/189739734-08efb323-10ed-48d9-8e03-31c678a1782e.jpg"/>
  
 
 ## Pré-requisitos
