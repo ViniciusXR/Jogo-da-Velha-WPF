@@ -32,7 +32,7 @@
 
 ## Como rodar a aplicação :arrow_forward:
 
-Basta executar o arquivo Jogo da Velha.exe na pasta principal.
+Basta executar o arquivo JogodaVelha.exe na pasta principal.
 
 
 
